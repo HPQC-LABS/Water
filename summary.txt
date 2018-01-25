@@ -1,0 +1,37 @@
+Empirical
+============
+R_OH (Angstroms)           A_HOH    Delta A (A0 - Ae)
+0.9580              0.0169 104.31   0.0167             [1940 Darling], shifts not verfied, coming from Kuchitsu
+0.9571              0.0171 104.31  -0.0667             [1956 Benedict]*, shifts from [1962 Kuchitsu]                   
+                    0.0174          N/A                [1958 Reitan thesis]          
+0.957               0.0168 104.20   0.1833             [1962 Kuchitsu]
+0.956               0.0172 104.34   0.0167             [1962 Kuchitsu]           
+0.95728157410203           104.52                      [1972 Hoy]*
+0.9578                     104.4776                    [1979 Hoy]*
+0.9576257                  104.51                      [1994 Polyansky]*
+0.9575                     104.51                      [2001 Bak]	
+
+ab initio                                                               
+============                                                            
+0.9584              104.45                             [1991 Schwenke]*
+0.9572              104.52                             [1992 Zhang]*
+0.9724              104.50                             [1993 Balasubramanian]*
+0.9572              104.52                             [1994 Phillips, lacking information]          
+0.9571              104.22                             [2001 Bak]
+
+* = have not checked original paper, only got this value from subsequent papers.
+1940 https://journals.aps.org/pr/abstract/10.1103/PhysRev.57.128
+1956 W.S. Benedict, N. Gailar, and E.K. Plyler, J. Chem. Phys. 24, 1139 
+1958 J. Pliva, Collection Czech. Chern. Commun. 23,777 (http://cccc.uochb.cas.cz/23/5/0777/ polyatomic potental form!)
+1958 A. Reitan http://actachemscand.dk/pdf/acta_vol_12_p0131-0132.pdf
+1958 A. Reitan, The Influence of Anharmonicity upon the Vibrational Probability Densities and Mean Amplitudes in Molecules. II I, thesis (Trondheim, Norway, 1958)
+1962 http://aip.scitation.org/doi/pdf/10.1063/1.1732909
+1994 http://aip.scitation.org/doi/pdf/10.1063/1.467297
+1996 http://aip.scitation.org/doi/pdf/10.1063/1.471469
+2001 http://aip.scitation.org/doi/pdf/10.1063/1.1357225
+2004 http://aip.scitation.org/doi/pdf/10.1063/1.1630960
+
+
+
+
+
