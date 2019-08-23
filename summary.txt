@@ -10,6 +10,7 @@ R_OH (Angstroms)           A_HOH    Delta A (A0 - Ae)
 0.9578                     104.4776                    [1979 Hoy]*
 0.9576257                  104.51                      [1994 Polyansky]*
 0.9575                     104.51                      [2001 Bak]	
+0.957902(280)              104.40                      [2002 Pawlowski]**	
 
 ab initio                                                               
 ============                                                            
@@ -20,6 +21,7 @@ ab initio
 0.9571              104.22                             [2001 Bak]
 
 * = have not checked original paper, only got this value from subsequent papers.
+**= used experimental rotational constant and CCSD(T)/cc-pVQZ vibration-rotation interaction constants and their uncertainty
 1940 https://journals.aps.org/pr/abstract/10.1103/PhysRev.57.128
 1956 W.S. Benedict, N. Gailar, and E.K. Plyler, J. Chem. Phys. 24, 1139 
 1958 J. Pliva, Collection Czech. Chern. Commun. 23,777 (http://cccc.uochb.cas.cz/23/5/0777/ polyatomic potental form!)
@@ -29,7 +31,10 @@ ab initio
 1994 http://aip.scitation.org/doi/pdf/10.1063/1.467297
 1996 http://aip.scitation.org/doi/pdf/10.1063/1.471469
 2001 http://aip.scitation.org/doi/pdf/10.1063/1.1357225
+2002 https://aip.scitation.org/doi/abs/10.1063/1.1459782
 2004 http://aip.scitation.org/doi/pdf/10.1063/1.1630960
+2018 https://aip.scitation.org/doi/pdf/10.1063/1.5037346 (table shows a lot of previous people's geometries) 
+
 
 
 
